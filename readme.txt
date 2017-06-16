@@ -8,4 +8,5 @@ bb
 branch conflicT
 no ff
 branch bug 
+another branch 2
 origin branch 3
