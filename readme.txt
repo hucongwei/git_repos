@@ -7,3 +7,4 @@ git track changes
 bb
 branch conflicT
 no ff
+branch bug 
